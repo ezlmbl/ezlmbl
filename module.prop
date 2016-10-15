@@ -1,0 +1,9 @@
+id=ActionLauncher3
+name=Action Launcher 3
+version=v1.0
+versionCode=1
+author=crashoverride1995
+description=Magisk Module for Action Launcher 3
+support=http://forum.xda-developers.com/apps/magisk/module-action-launcher-3-t3476397
+donate=N/A
+cacheModule=false
